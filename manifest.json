@@ -1,9 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "r/NoSleep latest links",
+  "description": "This extension shows all the latest links from reddit.com/r/nosleep",
   "version": "1.0",
+  "icons":{
+    "48":"icon.png"
+  },
 
   "browser_action": {
     "default_icon": "icon.png",
